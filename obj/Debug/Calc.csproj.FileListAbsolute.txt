@@ -1,0 +1,11 @@
+D:\YandexDisk\C#\Calc\bin\Debug\Calc.exe.config
+D:\YandexDisk\C#\Calc\bin\Debug\Calc.exe
+D:\YandexDisk\C#\Calc\bin\Debug\Calc.pdb
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.Form1.resources
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.exe
+D:\YandexDisk\C#\Calc\obj\Debug\Calc.pdb
